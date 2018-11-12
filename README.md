@@ -1,4 +1,4 @@
-# An Introduction to Scala
+# An Intro to Scala
 
 Part 1: 
 
