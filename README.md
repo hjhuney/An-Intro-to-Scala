@@ -6,7 +6,7 @@
 
 **Part 3:**  ["Variables vs Values" + String Operations](https://medium.com/@hjhuney/an-intro-to-scala-part-3-variables-vs-values-string-operations-2a5c7b612163)
 
-**Part 4:**
+**Part 4:** [Lists + Tuples](https://medium.com/@hjhuney/an-intro-to-scala-part-4-lists-tuples-85e023f15e75)
 
 **Part 5:**
 
