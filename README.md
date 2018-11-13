@@ -4,7 +4,7 @@
 
 **Part 2:**  [Data Types + Arithmetic Operators](https://medium.com/@hjhuney/an-intro-to-scala-part-2-data-types-arithmetic-operators-eb54911c3fc7)
 
-**Part 3:**  ["Variables vs Values" + String Operations](https://medium.com/@hjhuney/an-intro-to-scala-part-3-variables-vs-values-string-operations-2a5c7b612163)
+**Part 3:**  [Variables vs Values + String Operations](https://medium.com/@hjhuney/an-intro-to-scala-part-3-variables-vs-values-string-operations-2a5c7b612163)
 
 **Part 4:** [Lists + Tuples](https://medium.com/@hjhuney/an-intro-to-scala-part-4-lists-tuples-85e023f15e75)
 
