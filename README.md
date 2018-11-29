@@ -1,14 +1,16 @@
 # An Intro to Scala
 
-**Part 0:**  [An Intro to the Intro"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)
+**Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro-to-scala)
 
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)
 
-**Part 2:**  [Data Types + Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types--arithmetic-operators)
+**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types--arithmetic-operators)
 
-**Part 3:**  [Variables vs Values + String Operations](https://medium.com/@hjhuney/an-intro-to-scala-part-3-variables-vs-values-string-operations-2a5c7b612163)
+**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types--arithmetic-operators)
 
-**Part 4:** [Lists + Tuples](https://medium.com/@hjhuney/an-intro-to-scala-part-4-lists-tuples-85e023f15e75)
+**Part 4:**  [Variables vs Values + String Operations](https://medium.com/@hjhuney/an-intro-to-scala-part-3-variables-vs-values-string-operations-2a5c7b612163)
+
+**Part 5:** [Lists + Tuples](https://medium.com/@hjhuney/an-intro-to-scala-part-4-lists-tuples-85e023f15e75)
 
 **Part 5:**
 
@@ -17,7 +19,7 @@
 **Part 7:**
 
 
-# Part 0: Intro to the Intro to Scala"
+# Part 0: Intro to the Intro
 
 ![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
 
@@ -57,7 +59,7 @@ res0: this is the output in the shell resulting from the code
 
 With that, let's get started.
 
-# Part 1: Download Scala
+# Part 1: Installation, Set-Up, and "Hello World"
 
 The first task is to download Scala. Admittedly, this can be one of the more challenging parts of the process. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
 
