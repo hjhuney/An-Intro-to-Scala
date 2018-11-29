@@ -131,13 +131,9 @@ With that, you should get your printout. Let's move onto data types.
 
 
 [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)
-
 [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)
-
 [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)
-
 [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)
-
 [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
 
 ## Integers
