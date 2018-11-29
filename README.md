@@ -4,10 +4,8 @@
 
 # Table of Contents
 
-**Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro-to-scala)
-
-**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)
-
+**Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro-to-scala)<br>
+**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)<br>
 **Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)
 
 **Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-3-arithmetic-operators)
@@ -130,10 +128,10 @@ With that, you should get your printout. Let's move onto data types.
 # Part 2: Data Types
 
 
-[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)
-[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)
-[Strings](https://github.com/hjhuney/Intro-to-Scala#strings)
-[Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)
+[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
+[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
+[Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
+[Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
 [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
 
 ## Integers
