@@ -90,7 +90,7 @@ You might also consider some other Scala plug-ins. I haven't messed around much 
 
 In any case, now you should be configured for running Scala files.
 
-### Getting Started
+## Getting Started
 
 Once you have everything installed, you should be able to run Scala through your command prompt. If you follow the instructions successfully and you're running Windows, you can open the command prompt (shortcut: enter "cmd" in the search box at the "Start" menu) and type in:
 
@@ -100,7 +100,7 @@ spark-shell
 
 This will launch Spark in local mode, which is what we'll use for learning the basics of Scala.
 
-### "Hello World" in Command Prompt** 
+## "Hello World" in Command Prompt** 
 
 Let's start with the simple print statement. Scala's print statements look similar to Java, but a bit more concise.
 
@@ -110,7 +110,7 @@ println("Hello world!")
 
 And voila! You've now run your first Scala program.
 
-### "Hello World" in VS Code**
+## "Hello World" in VS Code**
 
 We want need a code editor till we're a few lessons in, but if you also want to make sure Scala works properly in VS Code, then go to File -> New File. Save your file as "hello_world.scala". Enter the correct code in the file and then save.
 
@@ -126,7 +126,7 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-### Integers
+## Integers
 
 Like Java, Scala uses integers and doubles. Open the command prompt and launch the spark-shell. Now, let’s input an integer into the shell.
 
@@ -144,7 +144,7 @@ res1: Int=7
 
 We can see in the output that Scala automatically recognizes “7” as an “Int”.
 
-**Doubles**
+## Doubles
 
 Next, let’s try a floating point number. Similar to Java, Scala uses a data type called a “double” which is short for double-precision floating point number. Let’s enter the value of Pi into the shell.
 
@@ -162,7 +162,7 @@ res1: Double = 3.14
 
 Once again, you can see Scala automatically turned our floating point number into a “double.” Now, let’s do strings.
 
-**Strings**
+## Strings
 
 If you’re coming from Python, the biggest thing to note with strings is that you need to use double quotes. I’ll take this opportunity to use my favorite word in the English language into the shell.
 
@@ -180,7 +180,7 @@ string1: String = Defenestration of Prague
 
 For those not “in the know”, defenestration is a fancy way of saying ‘to throw someone out of a window.’
 
-**Booleans**
+## Booleans
 
 Let’s move onto Booleans, which as you likely know are binary variables (“true” and “false”). We’ll enter “true” in lower-case.
 
@@ -198,7 +198,7 @@ res1: Boolean = true
 
 Simple enough.
 
-**And the Rest …**
+## And the Rest 
 
 If you want to see a more exhaustive of Scala data types, visit this [link](https://www.tutorialspoint.com/scala/scala_data_types.htm). A few to note are “Char”, which is a single character (a string is made up of chars). Scala also has a “Null” data type.
 
@@ -211,7 +211,7 @@ Also, “Any” is a supertype. A list that contains multiple data types will be
 
 # Part 3: Arithmetic Operators
 
-**Addition**
+## Addition
 
 If you know another programming language, this will likely be very simple, so we’ll work through it quickly.
 
@@ -229,7 +229,7 @@ res1: Int=9
 
 Exactly what you likely expect for addition.
 
-**Subtraction**
+## Subtraction
 
 *input*
 
@@ -243,7 +243,7 @@ Exactly what you likely expect for addition.
 res1: Int=2
 ```
 
-**Multiplication**
+## Multiplication
 
 Multiplication uses the asterisk (“*”) symbol.
 
@@ -259,7 +259,7 @@ Multiplication uses the asterisk (“*”) symbol.
 res1: Int=20
 ```
 
-**Division**
+## Division
 
 Division is a bit less straight-forward.
 
@@ -308,7 +308,7 @@ res1: Int = 1
 
 Since 7 divided by 2 is equal to 3 with a remainder of 1, we get an output of “1”.
 
-**Exponents**
+## Exponents
 
 Exponents are a bit less simple in Scala than in Python. We need to access the math library and use the “.pow” method.
 
@@ -324,7 +324,7 @@ math.pow(3,3)
 res1: Double=27.0
 ```
 
-**Square Root**
+## Square Root
 
 Similar process for square roots.
 
@@ -340,7 +340,7 @@ math.sqrt(64)
 res1: Double = 8.0
 ```
 
-**Absolute Value**
+## Absolute Value
 
 Absolute value is another good one.
 
@@ -356,11 +356,11 @@ math.abs(-7.8)
 res1: Double = 7.8
 ```
 
-**Math Library**
+## Math Library
 
 You can check out more mathematical operations in the math library. Other features include rounding, logarithms, and trigonometric operations (e.g. sin, cos, tan).
 
-**Order of Operations**
+## Order of Operations
 
 Finally, order of operations are pretty straight-forward.
 
@@ -390,7 +390,7 @@ res11: Int=14
 
 # Part 4: "Variables vs Values"
 
-**Variables**
+## Variables
 
 In Scala, we have variables and values. The difference between the two is that variables can be reassigned while values cannot. When reassigning variables, however, we must use the same data type.
 
@@ -439,7 +439,7 @@ thing1 = 4.79
  thing1 = 4.79
 ```
 
-**Values**
+## Values
 
 Now, let’s do values. We’ll create a string with my favorite city name of all-time “Sarmizegetusa”, the capital of Roman Dacia.
 
