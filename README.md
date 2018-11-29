@@ -118,11 +118,17 @@ With that, you should get your printout. Let's move onto data types.
 # Part 2: Data Types
 
 
-1.[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
-2.[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
-[Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
-[Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
-[Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
+1. [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
+2. [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
+3. [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
+4. [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
+5. [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
+
+* [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
+* [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
+* [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
+* [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
+* [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
 
 ## Integers
 
