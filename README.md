@@ -16,7 +16,7 @@
 
 **Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)
 
-
+Work In Progress
 
 **Part 8:**  [Arrays]()
 
