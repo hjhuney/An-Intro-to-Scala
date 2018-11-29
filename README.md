@@ -4,7 +4,7 @@
 
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)
 
-**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types--arithmetic-operators)
+**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)
 
 **Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types--arithmetic-operators)
 
@@ -131,8 +131,6 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-A more exhausitve list of Scala data types can be found [here](https://www.tutorialspoint.com/scala/scala_data_types.htm). We'll focus on the most important ones, starting with integers. 
-
 **Integers**
 
 Like Java, Scala uses integers and doubles. Open the command prompt and launch the spark-shell. Now, let’s input an integer into the shell.
@@ -163,7 +161,9 @@ Next, let’s try a floating point number. Similar to Java, Scala uses a data ty
 
 *output*
 
+```
 res1: Double = 3.14
+```
 
 Once again, you can see Scala automatically turned our floating point number into a “double.” Now, let’s do strings.
 
@@ -203,9 +203,9 @@ val x1 = null
 
 Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
 
-# Part 4: 
+# Part 3: Arithmetic Operators
 
-Addition
+**Addition**
 
 If you know another programming language, this will likely be very simple, so we’ll work through it quickly.
 
@@ -276,7 +276,8 @@ To find the remainder of a number after division, we use the “%” operator.
 res1: Int = 1
 
 Since 7 divided by 2 is equal to 3 with a remainder of 1, we get an output of “1”.
-Exponents
+
+**Exponents**
 
 Exponents are a bit less simple in Scala than in Python. We need to access the math library and use the “.pow” method.
 
@@ -288,7 +289,7 @@ math.pow(3,3)
 
 res1: Double=27.0
 
-Square Root
+**Square Root**
 
 Similar process for square roots.
 
@@ -336,9 +337,9 @@ res10: Int=9
 
 res11: Int=14
 
-# Part 3: "Variables vs Values"
+# Part 4: "Variables vs Values"
 
-Variables
+**Variables**
 
 In Scala, we have variables and values. The difference between the two is that variables can be reassigned while values cannot. When reassigning variables, however, we must use the same data type.
 
