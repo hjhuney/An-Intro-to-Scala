@@ -6,30 +6,21 @@
 
 **Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro-to-scala)<br>
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-setup-and-hello-world)<br>
-**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)
-
-**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-3-arithmetic-operators)
-
-**Part 4:**  [Variables vs Values](https://github.com/hjhuney/Intro-to-Scala#part-4-variables-vs-values)
-
-**Part 5:** [String Operations](https://github.com/hjhuney/Intro-to-Scala#part-5-string-operations)
-
-**Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)
-
-**Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)
+**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)<br>
+**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-3-arithmetic-operators)<br>
+**Part 4:**  [Variables vs Values](https://github.com/hjhuney/Intro-to-Scala#part-4-variables-vs-values)<br>
+**Part 5:** [String Operations](https://github.com/hjhuney/Intro-to-Scala#part-5-string-operations)<br>
+**Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)<br>
+**Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)<br>
 
 <br><br>
 *Work In Progress*
 
-**Part 8:**  [Arrays]()
-
-**Part 9:**  [Sets]()
-
-**Part 10:**  [Maps]()
-
-**Part 11:**  [Logical Operators]()
-
-**Part 12:**  [If Statements]()
+**Part 8:**  [Arrays]()<br>
+**Part 9:**  [Sets]()<br>
+**Part 10:**  [Maps]()<br>
+**Part 11:**  [Logical Operators]()<br>
+**Part 12:**  [If Statements]()<br>
 
 
 
