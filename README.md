@@ -44,7 +44,7 @@ Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/pyt
 
 
 
-**Other Resources** 
+### Other Resources
 
 I will offer some other sources as both alternatives to my own blogs as well as references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his ["Scala and Spark for Big Data and Machine Learning"](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/) course. If you learn better in video format, I highly recommend that course.
 
