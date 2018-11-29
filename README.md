@@ -124,6 +124,202 @@ Now open your terminal: View -> Terminal. Enter "spark-shell" in the terminal ju
 With that, you should get your printout.
 
 
+
+# Part 2: Data Types + Arithmetic Operators
+
+Integers
+
+Like Java, Scala uses integers and doubles. Open the command prompt and launch the spark-shell. Now, let’s input an integer into the shell.
+
+input
+
+7
+
+output
+
+res1: Int=7
+
+We can see in the output that Scala automatically recognizes “7” as an “Int”.
+Doubles
+
+Next, let’s try a floating point number. Similar to Java, Scala uses a data type called a “double” which is short for double-precision floating point number. Let’s enter the value of Pi into the shell.
+
+input
+
+3.14
+
+output
+
+res1: Double = 3.14
+
+Once again, you can see Scala automatically turned our floating point number into a “double.” Now, let’s do strings.
+Strings
+
+If you’re coming from Python, the biggest thing to note with strings is that you need to use double quotes. I’ll take this opportunity to use my favorite word in the English language into the shell.
+
+input
+
+val string1 = “Defenestration of Prague”
+
+output
+
+string1: String = Defenestration of Prague
+
+For those not “in the know”, defenestration is a fancy way of saying ‘to throw someone out of a window.’
+Booleans
+
+Let’s move onto Booleans, which as you likely know are binary variables (“true” and “false”). We’ll enter “true” in lower-case.
+
+input
+
+true
+
+output
+
+res1: Boolean = true
+
+Simple enough.
+And the Rest …
+
+If you want to see a more exhaustive of Scala data types, visit this link. A few to note are “Char”, which is a single character (a string is made up of chars). Scala also has a “Null” data type.
+
+val x1 = null
+
+Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
+Addition
+
+If you know another programming language, this will likely be very simple, so we’ll work through it quickly.
+
+input
+
+2+7
+
+output
+
+res1: Int=9
+
+Exactly what you likely expect for addition.
+Subtraction
+
+input
+
+4–2
+
+output
+
+res1: Int=2
+
+Multiplication
+
+Multiplication uses the asterisk (“*”) symbol.
+
+input
+
+4 * 5
+
+output
+
+res1: Int=20
+
+Division
+
+Division is a bit less straight-forward.
+
+input
+
+9 / 4
+
+output
+
+res6: Int=2
+
+Note that 9/4 = 2.25, but Scala rounds down our result. This is because we divided two integers and the result will also be an integer. In order to get a floating point number, we need to make at least one of the numbers a “double.”
+
+input
+
+9.0/4
+
+output
+
+res1: Double = 2.25
+
+We can see now that we get the proper result. Let’s move onto remainders.
+Modulus / Remainder
+
+To find the remainder of a number after division, we use the “%” operator.
+
+input
+
+7 % 2
+
+output
+
+res1: Int = 1
+
+Since 7 divided by 2 is equal to 3 with a remainder of 1, we get an output of “1”.
+Exponents
+
+Exponents are a bit less simple in Scala than in Python. We need to access the math library and use the “.pow” method.
+
+input
+
+math.pow(3,3)
+
+output
+
+res1: Double=27.0
+
+Square Root
+
+Similar process for square roots.
+
+input
+
+math.sqrt(64)
+
+output
+
+res1: Double = 8.0
+
+Absolute Value
+
+Absolute value is another good one.
+
+input
+
+math.abs(-7.8)
+
+output
+
+res1: Double = 7.8
+
+Math Library
+
+You can check out more mathematical operations in the math library. Other features include rounding, logarithms, and trigonometric operations (e.g. sin, cos, tan).
+Order of Operations
+
+Finally, order of operations are pretty straight-forward.
+
+input
+
+3+4*1+1
+
+output
+
+res10: Int=9
+
+input
+
+(3+4)*(1+1)
+
+output
+
+res11: Int=14
+
+Part 3
+
+
+
 # Resources
 
 Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), [Link](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/)
