@@ -17,6 +17,8 @@
 
 # Part 1: Installation, Setup, and "Hello World"
 
+![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
+
 Welcome to the first article in my multi-part series on Scala. This tutorial is designed as a precursor to learning Apache Spark.
 
 Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. Spark can be run in Python (PySpark) and R (SparkR and sparklyr); however, the best performance with Spark can be achieved in Scala.
@@ -83,28 +85,48 @@ Once you have VS Code on your computer, launch it. On the left hand side of the 
 
 ![SBT plugin installation](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/scala001.jpg "SBT plugin")
 
-
 In the search bar, enter "Scala". You should see some plug-in options for Scala. Go to "Scala (sbt)" and install it. Screenshot below highlights the box and correct plug-in.
+
 You might also consider some other Scala plug-ins. I haven't messed around much with the others, but I did download the Scala Syntax plug-in, as well.
+
 In any case, now you should be configured for running Scala files.
-Getting Started
+
+**Getting Started**
+
 Once you have everything installed, you should be able to run Scala through your command prompt. If you follow the instructions successfully and you're running Windows, you can open the command prompt (shortcut: enter "cmd" in the search box at the "Start" menu) and type in:
+
+```
 spark-shell
+```
+
 This will launch Spark in local mode, which is what we'll use for learning the basics of Scala.
-"Hello World" in Command Prompt
+
+**"Hello World" in Command Prompt** 
+
 Let's start with the simple print statement. Scala's print statements look similar to Java, but a bit more concise.
+
+```
 println("Hello world!")
+```
+
 And voila! You've now run your first Scala program.
-"Hello World" in VS Code
+
+**"Hello World" in VS Code**
+
 We want need a code editor till we're a few lessons in, but if you also want to make sure Scala works properly in VS Code, then go to File -> New File. Save your file as "hello_world.scala". Enter the correct code in the file and then save.
+
 Now open your terminal: View -> Terminal. Enter "spark-shell" in the terminal just as we did in the command prompt. To run the program, enter:
+
+```
 :load hello_world.scala
+```
+
 With that, you should get your printout.
-Part 2
-That's it for this blog. We'll get started with data types and arithmetic operators in Part 2.
-An Intro to Scala, Part 2: Data Types + Arithmetic Operators
-Resources
-I'll keep a list of resources at the bottom of this intro blog. Feel free to comment with other good resources on Scala, so I can add them to the list in the future.
-Marius Eriksen. Effective Scala, Link
-Rob Story, Python to Scala, Link
-Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), Link
+
+
+# Resources
+
+Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), [Link](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/)
+Marius Eriksen. Effective Scala, [Link](http://twitter.github.io/effectivescala/)
+Rob Story, Python to Scala, [Link](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)
+
