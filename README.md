@@ -12,28 +12,39 @@
 
 **Part 5:** [String Operations](https://github.com/hjhuney/Intro-to-Scala#part-5-string-operations)
 
-**Part 6:**  [Tuples]()
+**Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)
 
-**Part 7:**  [Lists]()
+**Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)
 
 
 
-**Part 8:**  [Data Types]()
+**Part 8:**  [Arrays]()
 
-**Part 9:**  [Arithmetic Operators]()
+**Part 9:**  [Sets]()
 
-**Part 10:**  [Variables vs Values + String Operations]()
+**Part 10:**  [Maps]()
+
+**Part 11:**  [Logical Operators]()
+
+**Part 12:**  [If Statements]()
+
 
 
 # Part 0: Intro to the Intro
 
 ![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
 
-This tutorial is designed as a precursor to learning Apache Spark. Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html)) and R ([SparkR and sparklyr](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)); however, the [best performance](https://www.dezyre.com/article/why-learn-scala-programming-for-apache-spark/198) with Spark can be achieved in Scala.
+This tutorial is designed to teach introductory Scala as a precursor to learning Apache Spark. 
 
 Scala is an object-oriented and functional programming language. It’s is most closely related to Java, so Java programmers should have a leg up on learning it. However, Scala is designed to be more concise and have features of functional programming languages.
 
-**References and Resources** 
+Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. 
+
+Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html)) and R ([SparkR and sparklyr](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)); however, the [best performance](https://www.dezyre.com/article/why-learn-scala-programming-for-apache-spark/198) with Spark can be achieved in Scala.
+
+
+
+**Other Resources** 
 
 I will offer some other sources as both alternatives to my own blogs as well as references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his ["Scala and Spark for Big Data and Machine Learning"](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/) course. If you learn better in video format, I highly recommend that course.
 
@@ -41,33 +52,10 @@ Marius Eriksen of Twitter has published ["Effective Scala"](http://twitter.githu
 
 If you're coming from a Python background, you might also check out this [Python to Scala e-book](https://wrobstory.gitbooks.io/python-to-scala/content/index.html), written by [Rob Story](https://github.com/wrobstory). It's pretty short and sweet and serves as a good quick reference for all you Pythoners and Pythonistas out there!
 
-**Learning Assumptions for this Series**
-
-Before we start, let's get some assumptions out of the way. Scala is rarely one's first programming language, so while I try to start out pretty basic, I assume you have basic knowledge of at least one language, whether it be Python, R, Java, JavaScript, etc.
-
-I come more from a Python background so I probably think more like a 'Python programmer'. That may come through at times.
-
-I am also using a Windows 10 machine, which probably won't impact too much in this tutorial beyond installation and setup, but it's worth noting. Your experience may vary slightly.
-
-Finally, I'll note that through these early articles, I will follow a format that labels input code and output. For instance:
-
-*input*
-
-```
-Scala code goes here
-```
-
-*output*
-
-```
-res0: this is the output in the shell resulting from the code
-```
-
-With that, let's get started.
 
 # Part 1: Installation, Set-Up, and "Hello World"
 
-The first task is to download Scala. Admittedly, this can be one of the more challenging parts of the process. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
+The first task is to download Scala. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
 
 [How to Install and Setup SBT + Scala on Windows 10](https://www.youtube.com/watch?v=uYcSYCGITeU)
 
@@ -83,11 +71,12 @@ Finally, here are some Mac instructions.
 
 While I found installing Scala to be more difficult than Python or R, there are plenty of resources out on the web if you're struggling. The good news is this is probably the most challenging part for most people.
 
+
 **VS Code for Scala** 
 
 We'll use the command prompt for our early exercises, but we'll eventually need a code editor. I recommend VS Code and I'll walk you through how to download.
 
-You are obviously free to use other options, such as Atom or Sublime, as well. Alternatively, if you want to use a full IDE, IntelliJ is a good choice and there is a Scala plug-in for it.
+You are obviously free to use other options, such as Atom or Sublime, as well. Alternatively, if you want to use a full IDE, IntelliJ is a good choice and there is a [Scala plug-in](https://plugins.jetbrains.com/plugin/1347-scala) for it.
 
 If you want to use VS Code and do not have it yet, download it here.
 
