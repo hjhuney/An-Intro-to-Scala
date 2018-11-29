@@ -117,13 +117,6 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-
-1. [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
-2. [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
-3. [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
-4. [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
-5. [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
-
 * [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 * [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
 * [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
@@ -215,6 +208,17 @@ Also, “Any” is a supertype. A list that contains multiple data types will be
 
 # Part 3: Arithmetic Operators
 
+* [Addition](https://github.com/hjhuney/Intro-to-Scala#addition)<br>
+* [Subtraction](https://github.com/hjhuney/Intro-to-Scala#subtraction)<br>
+* [Multiplication](https://github.com/hjhuney/Intro-to-Scala#multiplication)<br>
+* [Division](https://github.com/hjhuney/Intro-to-Scala#division)<br>
+* [Modulus](https://github.com/hjhuney/Intro-to-Scala#modulus)
+* [Exponents](https://github.com/hjhuney/Intro-to-Scala#exponents)<br>
+* [Square Roots](https://github.com/hjhuney/Intro-to-Scala#square-roots)<br>
+* [Absolute Value](https://github.com/hjhuney/Intro-to-Scala#absolute-value)<br>
+* [Math Library](https://github.com/hjhuney/Intro-to-Scala#math-library)<br>
+* [Order of Operations](https://github.com/hjhuney/Intro-to-Scala#order-of-operations)<br>
+
 ## Addition
 
 If you know another programming language, this will likely be very simple, so we’ll work through it quickly.
@@ -294,7 +298,8 @@ res1: Double = 2.25
 ```
 
 We can see now that we get the proper result. Let’s move onto remainders.
-Modulus / Remainder
+
+## Modulus
 
 To find the remainder of a number after division, we use the “%” operator.
 
@@ -328,7 +333,7 @@ math.pow(3,3)
 res1: Double=27.0
 ```
 
-## Square Root
+## Square Roots
 
 Similar process for square roots.
 
