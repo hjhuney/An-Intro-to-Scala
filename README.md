@@ -13,7 +13,6 @@
 **Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)<br>
 **Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)<br>
 
-<br><br>
 *Work In Progress*
 
 **Part 8:**  [Arrays]()<br>
@@ -119,8 +118,8 @@ With that, you should get your printout. Let's move onto data types.
 # Part 2: Data Types
 
 
-[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
-[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
+1.[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
+2.[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
 [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
 [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
 [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
