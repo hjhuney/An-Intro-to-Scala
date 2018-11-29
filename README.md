@@ -23,17 +23,17 @@
 
 ![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
 
-Welcome to the first article in my multi-part series on Scala. This tutorial is designed as a precursor to learning Apache Spark.
-
-Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. Spark can be run in Python (PySpark) and R (SparkR and sparklyr); however, the best performance with Spark can be achieved in Scala.
+This tutorial is designed as a precursor to learning Apache Spark. Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html)) and R ([SparkR and sparklyr](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)); however, the [best performance](https://www.dezyre.com/article/why-learn-scala-programming-for-apache-spark/198) with Spark can be achieved in Scala.
 
 Scala is an object-oriented and functional programming language. It’s is most closely related to Java, so Java programmers should have a leg up on learning it. However, Scala is designed to be more concise and have features of functional programming languages.
 
 **References and Resources** 
 
-I will offer some other sources as both alternatives to my own blogs as well as references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his "Scala and Spark for Big Data and Machine Learning" course. If you learn better in video format, I highly recommend that course.
-Marius Eriksen of Twitter has published "Effective Scala", which is available online for free. That's a great resource, as well.
-If you're coming from a Python background, you might also check out this Python to Scala e-book, written by Rob Story. It's pretty short and sweet and serves as a good quick reference for all you Pythoners and Pythonistas out there!
+I will offer some other sources as both alternatives to my own blogs as well as references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his ["Scala and Spark for Big Data and Machine Learning"](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/) course. If you learn better in video format, I highly recommend that course.
+
+Marius Eriksen of Twitter has published ["Effective Scala"](http://twitter.github.io/effectivescala/), which is available online for free. That's a great resource, as well.
+
+If you're coming from a Python background, you might also check out this [Python to Scala e-book](https://wrobstory.gitbooks.io/python-to-scala/content/index.html), written by [Rob Story](https://github.com/wrobstory). It's pretty short and sweet and serves as a good quick reference for all you Pythoners and Pythonistas out there!
 
 **Learning Assumptions for this Series**
 
@@ -65,15 +65,15 @@ The first task is to download Scala. Admittedly, this can be one of the more cha
 
 [How to Install and Setup SBT + Scala on Windows 10](https://www.youtube.com/watch?v=uYcSYCGITeU)
 
-You can decide on your own whether you want to install SBT, as well, as there are other options for running Scala (such as IntelliJ).
+You can decide on your own whether you want to install SBT, as well, as there are other options for running Scala (such as [IntelliJ](https://www.jetbrains.com/idea/)).
 
 If you are using a Linux-based OS, here is a similar video for you. I cannot vouch for this, but it's by the same author.
 
-How to Install and Setup SBT on Ubuntu
+[How to Install and Setup SBT on Ubuntu](https://www.youtube.com/watch?v=uYcSYCGITeU)
 
 Finally, here are some Mac instructions.
 
-How to Install Scala on Mac
+[How to Install Scala on Mac](https://www.youtube.com/watch?v=OKiwZFMgnEk)
 
 While I found installing Scala to be more difficult than Python or R, there are plenty of resources out on the web if you're struggling. The good news is this is probably the most challenging part for most people.
 
@@ -125,95 +125,106 @@ Now open your terminal: View -> Terminal. Enter "spark-shell" in the terminal ju
 :load hello_world.scala
 ```
 
-With that, you should get your printout.
+With that, you should get your printout. Let's move onto data types. 
 
 
 
 # Part 2: Data Types
 
-**Integers
+A more exhausitve list of Scala data types can be found [here](https://www.tutorialspoint.com/scala/scala_data_types.htm). We'll focus on the most important ones, starting with integers. 
+
+**Integers**
 
 Like Java, Scala uses integers and doubles. Open the command prompt and launch the spark-shell. Now, let’s input an integer into the shell.
 
-*input
+*input*
 
 ```
 7
 ```
 
-*output
+*output*
 
 ```
 res1: Int=7
 ```
 
 We can see in the output that Scala automatically recognizes “7” as an “Int”.
-Doubles
+
+**Doubles**
 
 Next, let’s try a floating point number. Similar to Java, Scala uses a data type called a “double” which is short for double-precision floating point number. Let’s enter the value of Pi into the shell.
 
-input
+*input*
 
+```
 3.14
+```
 
-output
+*output*
 
 res1: Double = 3.14
 
 Once again, you can see Scala automatically turned our floating point number into a “double.” Now, let’s do strings.
-Strings
+
+**Strings**
 
 If you’re coming from Python, the biggest thing to note with strings is that you need to use double quotes. I’ll take this opportunity to use my favorite word in the English language into the shell.
 
-input
+*input*
 
 val string1 = “Defenestration of Prague”
 
-output
+*output*
 
 string1: String = Defenestration of Prague
 
 For those not “in the know”, defenestration is a fancy way of saying ‘to throw someone out of a window.’
-Booleans
+
+**Booleans**
 
 Let’s move onto Booleans, which as you likely know are binary variables (“true” and “false”). We’ll enter “true” in lower-case.
 
-input
+*input*
 
 true
 
-output
+*output*
 
 res1: Boolean = true
 
 Simple enough.
-And the Rest …
 
-If you want to see a more exhaustive of Scala data types, visit this link. A few to note are “Char”, which is a single character (a string is made up of chars). Scala also has a “Null” data type.
+**And the Rest …**
+
+If you want to see a more exhaustive of Scala data types, visit this [link](https://www.tutorialspoint.com/scala/scala_data_types.htm). A few to note are “Char”, which is a single character (a string is made up of chars). Scala also has a “Null” data type.
 
 val x1 = null
 
 Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
+
+# Part 4: 
+
 Addition
 
 If you know another programming language, this will likely be very simple, so we’ll work through it quickly.
 
-input
+*input*
 
 2+7
 
-output
+*output*
 
 res1: Int=9
 
 Exactly what you likely expect for addition.
 Subtraction
 
-input
+*input*
 
 4–2
 
-output
+*output*
 
 res1: Int=2
 
@@ -221,11 +232,11 @@ Multiplication
 
 Multiplication uses the asterisk (“*”) symbol.
 
-input
+*input*
 
 4 * 5
 
-output
+*output*
 
 res1: Int=20
 
@@ -233,21 +244,21 @@ Division
 
 Division is a bit less straight-forward.
 
-input
+*input*
 
 9 / 4
 
-output
+*output*
 
 res6: Int=2
 
 Note that 9/4 = 2.25, but Scala rounds down our result. This is because we divided two integers and the result will also be an integer. In order to get a floating point number, we need to make at least one of the numbers a “double.”
 
-input
+*input*
 
 9.0/4
 
-output
+*output*
 
 res1: Double = 2.25
 
@@ -256,11 +267,11 @@ Modulus / Remainder
 
 To find the remainder of a number after division, we use the “%” operator.
 
-input
+*input*
 
 7 % 2
 
-output
+*output*
 
 res1: Int = 1
 
@@ -269,11 +280,11 @@ Exponents
 
 Exponents are a bit less simple in Scala than in Python. We need to access the math library and use the “.pow” method.
 
-input
+*input*
 
 math.pow(3,3)
 
-output
+*output*
 
 res1: Double=27.0
 
@@ -281,46 +292,47 @@ Square Root
 
 Similar process for square roots.
 
-input
+*input*
 
 math.sqrt(64)
 
-output
+*output*
 
 res1: Double = 8.0
 
-Absolute Value
+**Absolute Value**
 
 Absolute value is another good one.
 
-input
+*input*
 
 math.abs(-7.8)
 
-output
+*output*
 
 res1: Double = 7.8
 
-Math Library
+**Math Library**
 
 You can check out more mathematical operations in the math library. Other features include rounding, logarithms, and trigonometric operations (e.g. sin, cos, tan).
-Order of Operations
+
+**Order of Operations**
 
 Finally, order of operations are pretty straight-forward.
 
-input
+*input*
 
 3+4*1+1
 
-output
+*output*
 
 res10: Int=9
 
-input
+*input*
 
 (3+4)*(1+1)
 
-output
+*output*
 
 res11: Int=14
 
