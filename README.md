@@ -55,19 +55,35 @@ With that, let's get started.
 
 **Download Scala**
 
-The first task is to download Scala. Admittedly, this can be one of the more challenging parts of the process. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube:
-How to Install and Setup SBT + Scala on Windows 10
+The first task is to download Scala. Admittedly, this can be one of the more challenging parts of the process. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
+
+[How to Install and Setup SBT + Scala on Windows 10](https://www.youtube.com/watch?v=uYcSYCGITeU)
+
 You can decide on your own whether you want to install SBT, as well, as there are other options for running Scala (such as IntelliJ).
+
 If you are using a Linux-based OS, here is a similar video for you. I cannot vouch for this, but it's by the same author.
+
 How to Install and Setup SBT on Ubuntu
+
 Finally, here are some Mac instructions.
+
 How to Install Scala on Mac
+
 While I found installing Scala to be more difficult than Python or R, there are plenty of resources out on the web if you're struggling. The good news is this is probably the most challenging part for most people.
-VS Code for Scala
+
+**VS Code for Scala** 
+
 We'll use the command prompt for our early exercises, but we'll eventually need a code editor. I recommend VS Code and I'll walk you through how to download.
+
 You are obviously free to use other options, such as Atom or Sublime, as well. Alternatively, if you want to use a full IDE, IntelliJ is a good choice and there is a Scala plug-in for it.
+
 If you want to use VS Code and do not have it yet, download it here.
+
 Once you have VS Code on your computer, launch it. On the left hand side of the screen, you should see some icons. One of these icons is a square of sorts. If you hover it, it should say "Extensions." Click on that.
+
+![SBT plugin installation](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/scala001.jpg "SBT plugin")
+
+
 In the search bar, enter "Scala". You should see some plug-in options for Scala. Go to "Scala (sbt)" and install it. Screenshot below highlights the box and correct plug-in.
 You might also consider some other Scala plug-ins. I haven't messed around much with the others, but I did download the Scala Syntax plug-in, as well.
 In any case, now you should be configured for running Scala files.
