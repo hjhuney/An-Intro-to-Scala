@@ -38,15 +38,13 @@ This tutorial is designed to teach introductory Scala as a precursor to learning
 
 Scala is an object-oriented and functional programming language. It’s is most closely related to Java, so Java programmers should have a leg up on learning it. However, Scala is designed to be more concise and have features of functional programming languages.
 
-Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. 
-
-Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html)) and R ([SparkR and sparklyr](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)); however, the [best performance](https://www.dezyre.com/article/why-learn-scala-programming-for-apache-spark/198) with Spark can be achieved in Scala.
+Spark is an open-source cluster-computing framework designed for big data processing. It is written in Scala. Spark can be run in Python ([PySpark](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html)) and R ([SparkR and sparklyr](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)); however, the [best performance](https://www.dezyre.com/article/why-learn-scala-programming-for-apache-spark/198) with Spark can be achieved in Scala.
 
 
 
 ## Other Resources
 
-I will offer some other sources as both alternatives to my own blogs as well as references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his ["Scala and Spark for Big Data and Machine Learning"](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/) course. If you learn better in video format, I highly recommend that course.
+I will offer some other sources as both alternatives and references. Jose Portilla's Udemy courses are great and my blog will series will loosely follow the structure for his ["Scala and Spark for Big Data and Machine Learning"](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/) course. If you learn better in video format, I highly recommend that course.
 
 Marius Eriksen of Twitter has published ["Effective Scala"](http://twitter.github.io/effectivescala/), which is available online for free. That's a great resource, as well.
 
@@ -54,6 +52,8 @@ If you're coming from a Python background, you might also check out this [Python
 
 
 # Part 1: Installation, Set-Up, and "Hello World"
+
+## Installing Scala
 
 The first task is to download Scala. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
 
@@ -112,7 +112,7 @@ And voila! You've now run your first Scala program.
 
 ## "Hello World" in VS Code**
 
-We want need a code editor till we're a few lessons in, but if you also want to make sure Scala works properly in VS Code, then go to File -> New File. Save your file as "hello_world.scala". Enter the correct code in the file and then save.
+We won't need a code editor till we're a few lessons in, but if you also want to make sure Scala works properly in VS Code, then go to File -> New File. Save your file as "hello_world.scala". Enter the correct code in the file and then save.
 
 Now open your terminal: View -> Terminal. Enter "spark-shell" in the terminal just as we did in the command prompt. To run the program, enter:
 
@@ -125,6 +125,17 @@ With that, you should get your printout. Let's move onto data types.
 
 
 # Part 2: Data Types
+
+
+[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)
+
+[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)
+
+[Strings](https://github.com/hjhuney/Intro-to-Scala#strings)
+
+[Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)
+
+[Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
 
 ## Integers
 
