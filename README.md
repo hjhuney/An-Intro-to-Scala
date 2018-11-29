@@ -72,7 +72,7 @@ Finally, here are some Mac instructions.
 While I found installing Scala to be more difficult than Python or R, there are plenty of resources out on the web if you're struggling. The good news is this is probably the most challenging part for most people.
 
 
-**VS Code for Scala** 
+### VS Code for Scala
 
 We'll use the command prompt for our early exercises, but we'll eventually need a code editor. I recommend VS Code and I'll walk you through how to download.
 
@@ -90,7 +90,7 @@ You might also consider some other Scala plug-ins. I haven't messed around much 
 
 In any case, now you should be configured for running Scala files.
 
-**Getting Started**
+### Getting Started
 
 Once you have everything installed, you should be able to run Scala through your command prompt. If you follow the instructions successfully and you're running Windows, you can open the command prompt (shortcut: enter "cmd" in the search box at the "Start" menu) and type in:
 
@@ -100,7 +100,7 @@ spark-shell
 
 This will launch Spark in local mode, which is what we'll use for learning the basics of Scala.
 
-**"Hello World" in Command Prompt** 
+### "Hello World" in Command Prompt** 
 
 Let's start with the simple print statement. Scala's print statements look similar to Java, but a bit more concise.
 
@@ -110,7 +110,7 @@ println("Hello world!")
 
 And voila! You've now run your first Scala program.
 
-**"Hello World" in VS Code**
+### "Hello World" in VS Code**
 
 We want need a code editor till we're a few lessons in, but if you also want to make sure Scala works properly in VS Code, then go to File -> New File. Save your file as "hello_world.scala". Enter the correct code in the file and then save.
 
@@ -126,7 +126,7 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-**Integers**
+### Integers
 
 Like Java, Scala uses integers and doubles. Open the command prompt and launch the spark-shell. Now, let’s input an integer into the shell.
 
