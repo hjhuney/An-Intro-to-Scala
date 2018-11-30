@@ -88,3 +88,28 @@ val x1 = null
 ```
 
 Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
+
+
+# Table of Contents
+
+**Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro)<br>
+**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-set-up-and-hello-world)<br>
+**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)<br>
+**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-3-arithmetic-operators)<br>
+**Part 4:**  [Variables vs Values](https://github.com/hjhuney/Intro-to-Scala#part-4-variables-vs-values)<br>
+**Part 5:** [String Operations](https://github.com/hjhuney/Intro-to-Scala#part-5-string-operations)<br>
+**Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)<br>
+**Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)<br>
+
+*Work In Progress*
+
+**Part 8:**  [Arrays](https://github.com/hjhuney/Intro-to-Scala#part-8-arrays)<br>
+**Part 9:**  [Sets](https://github.com/hjhuney/Intro-to-Scala#part-9-sets)<br>
+**Part 10:**  [Maps](https://github.com/hjhuney/Intro-to-Scala#part-10-maps)<br>
+**Part 11:**  [Logical Operators](https://github.com/hjhuney/Intro-to-Scala#part-11-logical-operators)<br>
+**Part 12:**  [If Statements]()<br>
+**Part 13:** [For Loops]()<br>
+**Part 14:** [While Loops]()<br>
+**Part 15:** [Functions]()<br>
+
+**Appendix:** [List of Resources](https://github.com/hjhuney/Intro-to-Scala#resources)<br>
