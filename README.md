@@ -119,7 +119,7 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br><br>
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
 **2-1:** [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 **2-2:** [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
 **2-3:** [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
@@ -211,18 +211,17 @@ Also, “Any” is a supertype. A list that contains multiple data types will be
 
 # Part 3: Arithmetic Operators
 
-* [Back to Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br><br>
-
-* [Addition](https://github.com/hjhuney/Intro-to-Scala#addition)<br>
-* [Subtraction](https://github.com/hjhuney/Intro-to-Scala#subtraction)<br>
-* [Multiplication](https://github.com/hjhuney/Intro-to-Scala#multiplication)<br>
-* [Division](https://github.com/hjhuney/Intro-to-Scala#division)<br>
-* [Modulus](https://github.com/hjhuney/Intro-to-Scala#modulus)
-* [Exponents](https://github.com/hjhuney/Intro-to-Scala#exponents)<br>
-* [Square Roots](https://github.com/hjhuney/Intro-to-Scala#square-roots)<br>
-* [Absolute Value](https://github.com/hjhuney/Intro-to-Scala#absolute-value)<br>
-* [Math Library](https://github.com/hjhuney/Intro-to-Scala#math-library)<br>
-* [Order of Operations](https://github.com/hjhuney/Intro-to-Scala#order-of-operations)<br>
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**3-1:** [Addition](https://github.com/hjhuney/Intro-to-Scala#addition)<br>
+**3-2:** [Subtraction](https://github.com/hjhuney/Intro-to-Scala#subtraction)<br>
+**3-3:** [Multiplication](https://github.com/hjhuney/Intro-to-Scala#multiplication)<br>
+**3-4:** [Division](https://github.com/hjhuney/Intro-to-Scala#division)<br>
+**3-5:** [Modulus](https://github.com/hjhuney/Intro-to-Scala#modulus)
+**3-6:** [Exponents](https://github.com/hjhuney/Intro-to-Scala#exponents)<br>
+**3-7:** [Square Roots](https://github.com/hjhuney/Intro-to-Scala#square-roots)<br>
+**3-8:** [Absolute Value](https://github.com/hjhuney/Intro-to-Scala#absolute-value)<br>
+**3-9:** [Math Library](https://github.com/hjhuney/Intro-to-Scala#math-library)<br>
+**3-10:** [Order of Operations](https://github.com/hjhuney/Intro-to-Scala#order-of-operations)<br>
 
 ## Addition
 
