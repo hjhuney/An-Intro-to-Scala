@@ -41,7 +41,7 @@ I will offer some other sources as both alternatives and references. Jose Portil
 
 Marius Eriksen of Twitter has published ["Effective Scala"](http://twitter.github.io/effectivescala/), which is available online for free. That's a great resource, as well.
 
-If you're coming from a Python background, you might also check out this [Python to Scala e-book](https://wrobstory.gitbooks.io/python-to-scala/content/index.html), written by [Rob Story](https://github.com/wrobstory). It's pretty short and sweet and serves as a good quick reference for all you Pythoners and Pythonistas out there!
+If you're coming from a Python background, you might also check out this [Python to Scala e-book](https://wrobstory.gitbooks.io/python-to-scala/content/index.html), written by [Rob Story](https://github.com/wrobstory). It's "short and sweet" and serves as a good quick reference for all you Pythoners and Pythonistas out there!
 
 
 # Part 1: Installation, Set-Up, and "Hello World"
@@ -67,11 +67,11 @@ While I found installing Scala to be more difficult than Python or R, there are 
 
 ## VS Code for Scala
 
-We'll use the command prompt for our early exercises, but we'll eventually need a code editor. I recommend VS Code and I'll walk you through how to download.
+We'll use the command prompt for our early exercises, but we'll eventually need a code editor. I recommend VS Code and I'll walk you through how to download it.
 
-You are obviously free to use other options, such as Atom or Sublime, as well. Alternatively, if you want to use a full IDE, IntelliJ is a good choice and there is a [Scala plug-in](https://plugins.jetbrains.com/plugin/1347-scala) for it.
+You are obviously free to use other options, such as Atom or Sublime, as well. Alternatively, if you want to use a full IDE, [IntelliJ](https://www.jetbrains.com/idea/) is a good choice and there is a [Scala plug-in](https://plugins.jetbrains.com/plugin/1347-scala) for it.
 
-If you want to use VS Code and do not have it yet, download it here.
+If you want to use VS Code and do not have it yet, download it [here](https://code.visualstudio.com/).
 
 Once you have VS Code on your computer, launch it. On the left hand side of the screen, you should see some icons. One of these icons is a square of sorts. If you hover it, it should say "Extensions." Click on that.
 
