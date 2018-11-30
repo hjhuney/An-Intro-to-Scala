@@ -119,7 +119,7 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
-**0** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**Home:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
 
 **2-1:** [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 **2-2:** [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
