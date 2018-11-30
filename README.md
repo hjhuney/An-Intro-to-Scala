@@ -24,6 +24,9 @@ This is a work in progress.
 **Part 10:**  [Maps](https://github.com/hjhuney/Intro-to-Scala#part-10-maps)<br>
 **Part 11:**  [Logical Operators](https://github.com/hjhuney/Intro-to-Scala#part-11-logical-operators)<br>
 **Part 12:**  [If Statements]()<br>
+**Part 13:** [For Loops]()<br>
+**Part 14:** [While Loops]()<br>
+**Part 15:** [Functions]()<br>
 
 **Appendix:** [List of Resources](https://github.com/hjhuney/Intro-to-Scala#resources)<br>
 
