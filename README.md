@@ -486,7 +486,6 @@ No surprise that we get an error since “values” can not be reassigned in Sca
 # Part 5: String Operations
 
 * [ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
-
 * [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
 * [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
 * [Methods Available](https://github.com/hjhuney/Intro-to-Scala#methods-available)<br>
