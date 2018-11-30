@@ -210,6 +210,8 @@ Also, “Any” is a supertype. A list that contains multiple data types will be
 
 # Part 3: Arithmetic Operators
 
+* [Back to Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br><br>
+
 * [Addition](https://github.com/hjhuney/Intro-to-Scala#addition)<br>
 * [Subtraction](https://github.com/hjhuney/Intro-to-Scala#subtraction)<br>
 * [Multiplication](https://github.com/hjhuney/Intro-to-Scala#multiplication)<br>
@@ -481,7 +483,20 @@ No surprise that we get an error since “values” can not be reassigned in Sca
 
 # Part 5: String Operations
 
-Comparison Operators
+* [Back to Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+
+* [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
+* [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
+* [Methods Available](https://github.com/hjhuney/Intro-to-Scala#methods-available)<br>
+* [Length](https://github.com/hjhuney/Intro-to-Scala#length)<br>
+* [Last](https://github.com/hjhuney/Intro-to-Scala#last)
+* [String Interpolation](https://github.com/hjhuney/Intro-to-Scala#string-interpolation)<br>
+* [S-Interpolation](https://github.com/hjhuney/Intro-to-Scala#s-interpolation)<br>
+* [F-Interpolation](https://github.com/hjhuney/Intro-to-Scala#f-interpolation)<br>
+* [Matching](https://github.com/hjhuney/Intro-to-Scala#matching)<br>
+* [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
+
+## Comparison Operators
 
 Let’s take a look at comparison operators. Like Python and Java, you need the double equals sign (“==”) to test equality.
 
