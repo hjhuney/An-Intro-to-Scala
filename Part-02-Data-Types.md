@@ -1,6 +1,7 @@
 # Part 2: Data Types
 
-**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+## Data Types, Table of Contents
+**Top:** [Project ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
 **2-1:** [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 **2-2:** [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
 **2-3:** [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
