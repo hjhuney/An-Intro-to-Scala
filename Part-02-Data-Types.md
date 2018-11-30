@@ -1,6 +1,6 @@
 # Part 2: Data Types
 
-## Data Types, Table of Contents
+## Table of Contents
 **Top:** [Project ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
 **2-1:** [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 **2-2:** [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
@@ -91,7 +91,7 @@ val x1 = null
 Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
 
 
-# Table of Contents
+# Project Table of Contents
 
 **Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro)<br>
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-set-up-and-hello-world)<br>
