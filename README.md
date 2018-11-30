@@ -21,6 +21,8 @@
 **Part 11:**  [Logical Operators]()<br>
 **Part 12:**  [If Statements]()<br>
 
+**Appendix:** [List of Resources]()<br>
+
 
 
 # Part 0: Intro to the Intro
@@ -1578,7 +1580,7 @@ Welcome to Marmot Land, my friends!
 
 # Resources
 
-Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), [Link](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/)
-Marius Eriksen. Effective Scala, [Link](http://twitter.github.io/effectivescala/)
-Rob Story, Python to Scala, [Link](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)
+Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), [Link](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/)<br>
+Marius Eriksen. Effective Scala, [Link](http://twitter.github.io/effectivescala/)<br>
+Rob Story, Python to Scala, [Link](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)<br>
 
