@@ -119,6 +119,8 @@ With that, you should get your printout. Let's move onto data types.
 
 # Part 2: Data Types
 
+[Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br><br>
+
 **[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
 [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
 [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
@@ -483,7 +485,7 @@ No surprise that we get an error since “values” can not be reassigned in Sca
 
 # Part 5: String Operations
 
-* [Back to Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+* [ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
 
 * [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
 * [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
