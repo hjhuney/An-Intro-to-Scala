@@ -120,10 +120,10 @@ With that, you should get your printout. Let's move onto data types.
 # Part 2: Data Types
 
 **[Integers](https://github.com/hjhuney/Intro-to-Scala#integers)
-* [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
-* [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
-* [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
-* [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)**
+[Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
+[Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
+[Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
+[Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)**
 
 ## Integers
 
