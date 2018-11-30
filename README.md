@@ -15,13 +15,13 @@
 
 *Work In Progress*
 
-**Part 8:**  [Arrays]()<br>
-**Part 9:**  [Sets]()<br>
-**Part 10:**  [Maps]()<br>
-**Part 11:**  [Logical Operators]()<br>
+**Part 8:**  [Arrays](https://github.com/hjhuney/Intro-to-Scala#part-8-arrays)<br>
+**Part 9:**  [Sets](https://github.com/hjhuney/Intro-to-Scala#part-9-sets)<br>
+**Part 10:**  [Maps](https://github.com/hjhuney/Intro-to-Scala#part-10-maps)<br>
+**Part 11:**  [Logical Operators](https://github.com/hjhuney/Intro-to-Scala#part-11-logical-operators)<br>
 **Part 12:**  [If Statements]()<br>
 
-**Appendix:** [List of Resources]()<br>
+**Appendix:** [List of Resources](https://github.com/hjhuney/Intro-to-Scala#resources)<br>
 
 
 
@@ -1627,6 +1627,9 @@ Welcome to Marmot Land, my friends!
 # Resources
 
 Jose Portilla, Scala and Spark for Bit Data & Machine Learning (Udemy course), [Link](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/)<br>
+Scala Docs, [Link](https://docs.scala-lang.org/)<br>
+Tutorials Point: Learn Scala Programming, [Link](https://www.tutorialspoint.com/scala/index.htm)<br>
 Marius Eriksen. Effective Scala, [Link](http://twitter.github.io/effectivescala/)<br>
 Rob Story, Python to Scala, [Link](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)<br>
+Alvin Alexander, Scala Cookbook, [Link](https://www.oreilly.com/library/view/scala-cookbook/9781449340292/)<br>
 
