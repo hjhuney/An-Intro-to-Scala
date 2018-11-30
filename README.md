@@ -1233,6 +1233,8 @@ Scala arrays are similar to Java arrays, but have some added functionality, as w
 
 ## Create an Array
 
+Let's create an array of integers. 
+
 *input*
 
 ```
@@ -1244,6 +1246,8 @@ val array1 = Array(3,6,9)
 ```
 array1: Array[Int] = Array(3, 6, 9)
 ```
+
+We can also create an array of mixed types, such as the one below. 
 
 *input*
 
@@ -1259,7 +1263,7 @@ array2: Array[Any] = Array(3.14, 62, walrus)
 
 ## Ranges
 
-To populate an array with a range, we *input* the starting index, ending index, and we can also implement step argument. It follows the basic format below:
+To populate an array with a range, we input the starting index, ending index, and we can also implement step argument. It follows the basic format below:
 
 ```
 Array.range(start, end, step)
@@ -1361,11 +1365,13 @@ res1: scala.collection.mutable.Set[Int] = Set(9, 27, 1, 5, 77)
 
 ## Cast a List to a Set
 
-We'll create a list
+There are many instances where we might want to turn a list into a set. Let's first create a list. 
 
+```
 val listy_mcgillicuddy = List(6, 8, 8, 12, 13, 13, 19)
+```
 
-Now, we'll cast it to a set. 
+Now, we'll cast it to a set with the .toSet method. 
 
 ```
 val set_mcgillicuddy = listy_mcgillicuddy.toSet
@@ -1381,7 +1387,10 @@ Note that the set eliminates the duplicates since a set can only contain unique 
 
 # Part 10: Maps
 
+In Scala, maps are similar to dictionaries in Python. For those coming from a Python background, you might want to check out this [comparison between Python dictionaries and Scala maps](https://medium.com/r/?url=https%3A%2F%2Fwrobstory.gitbooks.io%2Fpython-to-scala%2Fcontent%2Fmaps%2FREADME.html). Maps can be immutable or mutable.
+
 ## Creating a Map
+
 Let's start by creating a map. We'll use animals and assign them a number. By default, we'll create an immutable map. 
 
 *input*
@@ -1412,7 +1421,7 @@ animals_map("aardvark")
 res0: Int = 1
 ```
 
-We can always use the "get" keyword to do this, as shown in the example below. 
+We can always use the "get" keyword to do this, as well, as shown in the example below. 
 
 *input*
 
@@ -1460,12 +1469,12 @@ res0: animals_mutable.type = Map(elephant -> 5, fox -> 6, gecko -> 7, hippo -> 8
 
 ## Get Keys and Values
 
-Finally, let's take a look at how to grab at the keys and values. This is simple. The method for keys is ".keys" and the method for values is ".values". 
+Finally, let's take a look at how to grab at the keys and values. This is simple. The method for keys is ".keys". 
 
 *input*
 
 ```
-animals_map.
+animals_map.keys
 ```
 
 *output*
@@ -1473,6 +1482,8 @@ animals_map.
 ```
 res0: Iterable[String] = Set(aardvark, bison, cheetah, dingo)
 ```
+
+Likewise, the method for values is ".values". 
 
 *input*
 
@@ -1485,58 +1496,6 @@ animals_map.keys
 ```
 res0: Iterable[Int] = MapLike(1, 2, 3, 4)
 ```
-
-*input*
-
-```
-
-```
-
-*output*
-
-```
-
-```
-
-
-*input*
-
-```
-
-```
-
-*output*
-
-```
-
-```
-
-
-*input*
-
-```
-
-```
-
-*output*
-
-```
-
-```
-
-
-*input*
-
-```
-
-```
-
-*output*
-
-```
-
-```
-
 
 # Part 11: Logical Operators
 
@@ -1596,9 +1555,10 @@ false
 
 In this instance, ("aardvark" == "aardvark") evaluates to true. Since we put the "!" operator in front of this statement, it will return the reverse, which is "false". 
 
-# If Statements
+# Part 12: If Statements
 
-With the logical operators out of the way, let's work on if statements. In Scala, we follow the if -> else if -> else line of logic. 
+With the logical operators out of the way, let's work on if statements. In Scala, we follow the if -> else if -> else line of logic. Open up your text editor and create a new .scala file. I named mine "scala_if_statements.scala", but you're free to use any name you like. 
+
 First, let's create a list of animals. 
 
 ```
@@ -1607,21 +1567,183 @@ var animals = List("aardvark", "hedgehog", "walrus")
 
 Now, we'll try out first "if statement" which tests whether the list contains both "aardvark" and "walrus" in it. 
 
+*input*
+
+```
+// if statement #1 
+if((animals.contains("aardvark") && animals.contains("walrus"))){
+    println("#1: Aardvarkwalrus!")
+} 
+```
+
+If you're using VS Code, remember to open the terminal and launch spark-shell. Make sure to save your file, either by going to the "File" menu or, in Windows, using "CTRL + S". Once the spark-shell is up and you see the "scala>" prompt, enter:
+
+```
+:load scala_if_statements.scala
+```
+
+Alternatively, if you gave your file a different name than mine, remember to change that. Your output should be as below:
+
+```
+#1: Aardvarkwalrus!
+
+```
+
+Next, let's take a look at an if statement with an "else if" clause. We'll keep our original "if statement", but now we'll add an "else if" clause that tests whether the 'animals' list contains either "aardvark" or "rhino". If it does, we'll print out "#2: Aardvark or Rhino?"
+
+*input*
+
+```
+// if statement #2 
+if((animals.contains("aardvark") && animals.contains("rhino"))){
+    println("#2: Aardvarkocerous!")
+} else if((animals.contains("aardvark") || animals.contains("rhino"))) {
+    println("#2: Aardvark or Rhino?")
+} 
+```
+
+*output*
+
+```
+#2: Aardvark or Rhino?
+```
 
 
-Next, let's take a look at an if statement with an "else if" clause. 
-
-Error: note in the image above that the last bar (after the final curly brace) is actually the cursor, not code. 
-Since only one condition in the "if" clause is true, it evaluates to "false". However, the "else if" clause contains an "or" statement that evaluates to true. 
-
-Finally, let's run the whole shebang by adding an "else" clause. 
-
-Welcome to Marmot Land, my friends!
+Finally, let's run the whole shebang by adding an "else" clause. We'll keep our "if" and "else if" statements, but we'll add an "else" statement to the end. This condition does not test anything; it merely runs if the "if" and "else if" statement are both false. The "else" clause will return "#3: Welcome to Marmot Land!"
 
 
+*input*
+
+```
+// if statement #3
+if((animals.contains("penguin") && animals.contains("rhino"))){
+    println("#3: PENGUARHINO!")
+} else if((animals.contains("penguin") || animals.contains("rhino"))) {
+    println("#3: Penguin or Rhino?")
+} else{
+    println("#3: Welcome to Marmot Land!")
+}
+
+```
+
+*output*
+
+```
+#3: Welcome to Marmot Land!
+```
+
+Indeed, welcome to Marmot Land, ladies and gentlemarmots!
+
+# Part 13: For Loops
 
 
 
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+# Part 14: While Loops
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+
+*input*
+
+```
+
+```
+
+*output*
+
+```
+
+```
+
+# Part 15: Functions
 
 
 # Resources
