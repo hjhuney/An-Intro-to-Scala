@@ -399,6 +399,10 @@ res11: Int=14
 
 # Part 4: "Variables vs Values"
 
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**4-1:** [Variables](https://github.com/hjhuney/Intro-to-Scala#variables)<br>
+**4-2:** [Values](https://github.com/hjhuney/Intro-to-Scala#values)<br>
+
 ## Variables
 
 In Scala, we have variables and values. The difference between the two is that variables can be reassigned while values cannot. When reassigning variables, however, we must use the same data type.
@@ -483,17 +487,17 @@ No surprise that we get an error since “values” can not be reassigned in Sca
 
 # Part 5: String Operations
 
-* [ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
-* [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
-* [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
-* [Methods Available](https://github.com/hjhuney/Intro-to-Scala#methods-available)<br>
-* [Length](https://github.com/hjhuney/Intro-to-Scala#length)<br>
-* [Last](https://github.com/hjhuney/Intro-to-Scala#last)
-* [String Interpolation](https://github.com/hjhuney/Intro-to-Scala#string-interpolation)<br>
-* [S-Interpolation](https://github.com/hjhuney/Intro-to-Scala#s-interpolation)<br>
-* [F-Interpolation](https://github.com/hjhuney/Intro-to-Scala#f-interpolation)<br>
-* [Matching](https://github.com/hjhuney/Intro-to-Scala#matching)<br>
-* [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**5-1:** [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
+**5-2:** [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
+**5-3:** [Methods Available](https://github.com/hjhuney/Intro-to-Scala#methods-available)<br>
+**5-4:** [Length](https://github.com/hjhuney/Intro-to-Scala#length)<br>
+**5-5:** [Last](https://github.com/hjhuney/Intro-to-Scala#last)<br>
+**5-6:** [String Interpolation](https://github.com/hjhuney/Intro-to-Scala#string-interpolation)<br>
+**5-7:** [S-Interpolation](https://github.com/hjhuney/Intro-to-Scala#s-interpolation)<br>
+**5-8:** [F-Interpolation](https://github.com/hjhuney/Intro-to-Scala#f-interpolation)<br>
+**5-9:** [Matching](https://github.com/hjhuney/Intro-to-Scala#matching)<br>
+**5-10:** [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
 
 ## Comparison Operators
 
@@ -796,6 +800,12 @@ Now it resolves to “true” since “marmot dance party” does contain the pa
 
 # Part 6: Tuples
 
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**6-1:** [Creating a Tuple](https://github.com/hjhuney/Intro-to-Scala#ccreating-a-tuple)<br>
+**6-2:** [Indexing Tuples](https://github.com/hjhuney/Intro-to-Scala#indexing-tuples)<br>
+
+## Creating a Tuple
+
 In Scala, tuples are immutable and can hold elements of different types. Here’s an example.
 
 *input*
@@ -829,6 +839,28 @@ res0: Double = 3.14
 In this example, we grabbed the 2nd element from our tuple, which was “3.14”.
 
 # Part 7: Lists
+
+**Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
+**7-1:** [Creating a List](https://github.com/hjhuney/Intro-to-Scala#creating-a-list)<br>
+**7-2:** [Indexing](https://github.com/hjhuney/Intro-to-Scala#indexing)<br>
+**7-3:** [List Attributes](https://github.com/hjhuney/Intro-to-Scala#list-attributes)<br>
+**7-4:** [Head](https://github.com/hjhuney/Intro-to-Scala#head)<br>
+**7-5:** [Tail](https://github.com/hjhuney/Intro-to-Scala#tail)<br>
+**7-6:** [Take](https://github.com/hjhuney/Intro-to-Scala#take)<br>
+**7-7:** [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
+**7-8:** [Sort](https://github.com/hjhuney/Intro-to-Scala#fsort)<br>
+**7-9:** [Size](https://github.com/hjhuney/Intro-to-Scala#size)<br>
+**7-10:** [Min & Max](https://github.com/hjhuney/Intro-to-Scala#min--max)<br>
+**7-11:** [Sum & Product](https://github.com/hjhuney/Intro-to-Scala#sum-and-product)<br>
+**7-12:** [Drop](https://github.com/hjhuney/Intro-to-Scala#drop)<br>
+**7-13:** [TakeRight](https://github.com/hjhuney/Intro-to-Scala#takeright)<br>
+**7-14:** [Embedded List](https://github.com/hjhuney/Intro-to-Scala#embedded-list)<br>
+**7-15:** [Slicing](https://github.com/hjhuney/Intro-to-Scala#slicing)<br>
+**7-16:** [List of Tuples](https://github.com/hjhuney/Intro-to-Scala#list-of-tuples)<br>
+**7-17:** [Adding Elements](https://github.com/hjhuney/Intro-to-Scala#adding-elements-to-a-list)<br>
+
+
+## Creating a List
 
 For those coming from a Python background, you’ll find there are significant differences with lists between Python and Scala. In Python, lists are mutable. You can easily add elements.
 
