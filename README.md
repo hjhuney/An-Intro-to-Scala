@@ -216,7 +216,7 @@ Also, “Any” is a supertype. A list that contains multiple data types will be
 **3-2:** [Subtraction](https://github.com/hjhuney/Intro-to-Scala#subtraction)<br>
 **3-3:** [Multiplication](https://github.com/hjhuney/Intro-to-Scala#multiplication)<br>
 **3-4:** [Division](https://github.com/hjhuney/Intro-to-Scala#division)<br>
-**3-5:** [Modulus](https://github.com/hjhuney/Intro-to-Scala#modulus)
+**3-5:** [Modulus](https://github.com/hjhuney/Intro-to-Scala#modulus)<br>
 **3-6:** [Exponents](https://github.com/hjhuney/Intro-to-Scala#exponents)<br>
 **3-7:** [Square Roots](https://github.com/hjhuney/Intro-to-Scala#square-roots)<br>
 **3-8:** [Absolute Value](https://github.com/hjhuney/Intro-to-Scala#absolute-value)<br>
