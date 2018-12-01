@@ -1,11 +1,11 @@
 # Part 1: Installation, Set-Up, and "Hello World"
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**1-1:** [Installing Scala](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
-**1-2:** [VS Code for Scala](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
-**1-3:** [Getting Started](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
-**1-4:** ["Hello World" in Command Prompt](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
-**1-5:** ["Hello World" in VS Code](https://www.tutorialspoint.com/scala/scala_data_types.htm)
+**1-1:** [Installing Scala](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#installing-scala)<br>
+**1-2:** [VS Code for Scala](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#vs-code-forscala)<br>
+**1-3:** [Launching Spark Shell](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.mda#launching-spark-shell)<br>
+**1-4:** ["Hello World" in Command Prompt](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#hello-world-in-commandprompt)<br>
+**1-5:** ["Hello World" in VS Code](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#hello-world-in-vscode)
 
 ## Installing Scala
 
