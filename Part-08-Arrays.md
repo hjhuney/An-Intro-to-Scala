@@ -3,7 +3,6 @@
 
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-
 **8-1:** [Overview of Arrays](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md#overview-of-arrays)<br>
 **8-2:** [Create an Array](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md#overview-of-arrays)<br>
 **8-3:** [Ranges](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md#ranges)<br>
