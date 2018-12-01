@@ -1,17 +1,17 @@
 
 # Part 5: String Operations
 
-**Top:** [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**5-1:** [Comparison Operators](https://github.com/hjhuney/Intro-to-Scala#comparison-operators)<br>
-**5-2:** [String Concatenation](https://github.com/hjhuney/Intro-to-Scala#string-concatenation)<br>
-**5-3:** [Methods Available](https://github.com/hjhuney/Intro-to-Scala#methods-available)<br>
-**5-4:** [Length](https://github.com/hjhuney/Intro-to-Scala#length)<br>
-**5-5:** [Last](https://github.com/hjhuney/Intro-to-Scala#last)<br>
-**5-6:** [String Interpolation](https://github.com/hjhuney/Intro-to-Scala#string-interpolation)<br>
-**5-7:** [S-Interpolation](https://github.com/hjhuney/Intro-to-Scala#s-interpolation)<br>
-**5-8:** [F-Interpolation](https://github.com/hjhuney/Intro-to-Scala#f-interpolation)<br>
-**5-9:** [Matching](https://github.com/hjhuney/Intro-to-Scala#matching)<br>
-**5-10:** [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**5-1:** [Comparison Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#comparison-operators)<br>
+**5-2:** [String Concatenation](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#string-concatenation)<br>
+**5-3:** [Methods Available](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#methods-available)<br>
+**5-4:** [Length](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#length)<br>
+**5-5:** [Last](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#last)<br>
+**5-6:** [String Interpolation](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#string-interpolation)<br>
+**5-7:** [S-Interpolation](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#s-interpolation)<br>
+**5-8:** [F-Interpolation](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#f-interpolation)<br>
+**5-9:** [Matching](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#matching)<br>
+**5-10:** [Contains](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md#contains)<br>
 
 ## Comparison Operators
 
