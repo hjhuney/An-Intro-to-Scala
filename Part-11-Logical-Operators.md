@@ -1,6 +1,9 @@
 # Part 11: Logical Operators
 
-Now we're moving onto flow control, with if statements, for loops, etc. We're going to move away from the command prompt and switch to a text editor. You're free to use your editor or IDE of preference, of course, but I'll be using VS Code. If you need to know how to get Scala running in VS Code, check out Part 1 in my series.
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**11-1:** ["And" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-map)<br>
+**11-2:** ["Or" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#indexing)<br>
+**11-3:** ["Not" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-mutable-map)<br>
 
 ## And Operator
 
@@ -20,7 +23,7 @@ false
 
 In this case, since only 1 of the 2 conditions is true, the operation evaluates out to "false". 
 
-## Or 
+## Or Operator
 
 Now we'll use the "OR" operator, which is "||". We'll use the exact same statement, except with as an or-statement. 
 
