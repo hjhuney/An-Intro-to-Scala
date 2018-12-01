@@ -1,6 +1,6 @@
 # Part 6: Tuples
 
-**Top:** [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
 
 
 ## Creating a Tuple
