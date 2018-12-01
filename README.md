@@ -8,7 +8,7 @@ This is a work in progress.
 
 # Table of Contents
 
-**Part O** [Intro to the Intro](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/README.md#part-0-intro-to-the-intro)<br>
+**Part 0:** [Intro to the Intro](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/README.md#part-0-intro-to-the-intro)<br>
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md)<br>
 **Part 2:**  [Data Types](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md)<br>
 **Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-03-Arithmetic-Operators.md)<br>
