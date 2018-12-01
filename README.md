@@ -8,6 +8,7 @@ This is a work in progress.
 
 # Table of Contents
 
+**Part O** [Intro to the Intro](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/README.md#part-0-intro-to-the-intro)<br>
 **Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md)<br>
 **Part 2:**  [Data Types](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md)<br>
 **Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-03-Arithmetic-Operators.md)<br>
@@ -15,8 +16,8 @@ This is a work in progress.
 **Part 5:** [String Operations](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md)<br>
 **Part 6:**  [Tuples](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-06-Tuples.md)<br>
 **Part 7:**  [Lists](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md)<br>
-**Part 8:**  [Arrays](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md)<br>
 
+**Part 8:**  [Arrays](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md)<br>
 **Part 9:**  [Sets](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-09-Sets.md)<br>
 **Part 10:**  [Maps](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md)<br>
 **Part 11:**  [Logical Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md)<br>
@@ -26,7 +27,6 @@ This is a work in progress.
 **Part 15:** [Functions](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md)<br>
 
 **Appendix:** [List of Resources](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-16-Appendix-Resources.md)<br>
-
 
 
 # Part 0: Intro to the Intro
@@ -46,9 +46,9 @@ Marius Eriksen of Twitter has published ["Effective Scala"](http://twitter.githu
 
 If you're coming from a Python background, you might also check out this [Python to Scala e-book](https://wrobstory.gitbooks.io/python-to-scala/content/index.html), written by [Rob Story](https://github.com/wrobstory). It's "short and sweet" and serves as a good quick reference for all you Pythoners and Pythonistas out there!
 
-# Continue to Part 2
+# Continue to Part 1
 
-**Part 2:**  [Data Types](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md)<br>
+**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md)<br>
 
 
 
