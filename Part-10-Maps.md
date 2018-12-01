@@ -1,8 +1,16 @@
 # Part 10: Maps
 
-In Scala, maps are similar to dictionaries in Python. For those coming from a Python background, you might want to check out this [comparison between Python dictionaries and Scala maps](https://medium.com/r/?url=https%3A%2F%2Fwrobstory.gitbooks.io%2Fpython-to-scala%2Fcontent%2Fmaps%2FREADME.html). Maps can be immutable or mutable.
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**10-1:** [Creating a Map](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-map)<br>
+**10-2:** [Indexing](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#indexing)<br>
+**10-3:** [Creating a Mutable Map](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-mutable-map)<br>
+**10-4:** [Adding a Key-Value Pair](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#adding-a-key-value-pair)<br>
+**10-5:** [Get Keys and Values](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#get-keys-and-values)<br>
+
 
 ## Creating a Map
+
+In Scala, maps are similar to dictionaries in Python. For those coming from a Python background, you might want to check out this [comparison between Python dictionaries and Scala maps](https://medium.com/r/?url=https%3A%2F%2Fwrobstory.gitbooks.io%2Fpython-to-scala%2Fcontent%2Fmaps%2FREADME.html). Maps can be immutable or mutable.
 
 Let's start by creating a map. We'll use animals and assign them a number. By default, we'll create an immutable map. 
 
