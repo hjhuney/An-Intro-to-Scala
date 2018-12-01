@@ -1,5 +1,13 @@
 # Part 9: Sets
 
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**9-1:** [Creating a Set](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-09-Sets.md#creating-a-set)<br>
+**9-2:** [Mutable Sets](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-09-Sets.md#mutable-sets)<br>
+**9-3:** [Cast a List to a Set](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-09-Sets.md#cast-a-list-to-a-set)<br>
+
+
+## Creating a Set
+
 A set is a collection with no duplicate elements. In Scala, we can create both immutable and mutable sets. First, let's create an empty set. 
 
 *input*
