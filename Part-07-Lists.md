@@ -1,7 +1,7 @@
 
 # Part 7: Lists
 
-**Top:** [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
 **7-1:** [Creating a List](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#creating-a-list)<br>
 **7-2:** [Indexing](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#indexing)<br>
 **7-3:** [List Attributes](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#list-attributes)<br>
