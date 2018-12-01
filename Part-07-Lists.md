@@ -2,23 +2,23 @@
 # Part 7: Lists
 
 **Top:** [Table of Contents](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
-**7-1:** [Creating a List](https://github.com/hjhuney/Intro-to-Scala#creating-a-list)<br>
-**7-2:** [Indexing](https://github.com/hjhuney/Intro-to-Scala#indexing)<br>
-**7-3:** [List Attributes](https://github.com/hjhuney/Intro-to-Scala#list-attributes)<br>
-**7-4:** [Head](https://github.com/hjhuney/Intro-to-Scala#head)<br>
-**7-5:** [Tail](https://github.com/hjhuney/Intro-to-Scala#tail)<br>
-**7-6:** [Take](https://github.com/hjhuney/Intro-to-Scala#take)<br>
-**7-7:** [Contains](https://github.com/hjhuney/Intro-to-Scala#contains)<br>
-**7-8:** [Sort](https://github.com/hjhuney/Intro-to-Scala#fsort)<br>
-**7-9:** [Size](https://github.com/hjhuney/Intro-to-Scala#size)<br>
-**7-10:** [Min & Max](https://github.com/hjhuney/Intro-to-Scala#min--max)<br>
-**7-11:** [Sum & Product](https://github.com/hjhuney/Intro-to-Scala#sum-and-product)<br>
-**7-12:** [Drop](https://github.com/hjhuney/Intro-to-Scala#drop)<br>
-**7-13:** [TakeRight](https://github.com/hjhuney/Intro-to-Scala#takeright)<br>
-**7-14:** [Embedded List](https://github.com/hjhuney/Intro-to-Scala#embedded-list)<br>
-**7-15:** [Slicing](https://github.com/hjhuney/Intro-to-Scala#slicing)<br>
-**7-16:** [List of Tuples](https://github.com/hjhuney/Intro-to-Scala#list-of-tuples)<br>
-**7-17:** [Adding Elements](https://github.com/hjhuney/Intro-to-Scala#adding-elements-to-a-list)<br>
+**7-1:** [Creating a List](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#creating-a-list)<br>
+**7-2:** [Indexing](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#indexing)<br>
+**7-3:** [List Attributes](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#list-attributes)<br>
+**7-4:** [Head](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#head)<br>
+**7-5:** [Tail](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#tail)<br>
+**7-6:** [Take](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#take)<br>
+**7-7:** [Contains](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#contains)<br>
+**7-8:** [Sort](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#fsort)<br>
+**7-9:** [Size](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#size)<br>
+**7-10:** [Min & Max](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#min--max)<br>
+**7-11:** [Sum & Product](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#sum-and-product)<br>
+**7-12:** [Drop](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#drop)<br>
+**7-13:** [TakeRight](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#takeright)<br>
+**7-14:** [Embedded List](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#embedded-list)<br>
+**7-15:** [Slicing](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#slicing)<br>
+**7-16:** [List of Tuples](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#list-of-tuples)<br>
+**7-17:** [Adding Elements](https://github.com/hjhuney/Intro-to-Scala/blob/master/Part-07-Lists.md#adding-elements-to-a-list)<br>
 
 
 ## Creating a List
