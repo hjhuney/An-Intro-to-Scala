@@ -1,9 +1,9 @@
 # Part 11: Logical Operators
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**11-1:** ["And" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-map)<br>
-**11-2:** ["Or" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#indexing)<br>
-**11-3:** ["Not" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md#creating-a-mutable-map)<br>
+**11-1:** ["And" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#and-operator)<br>
+**11-2:** ["Or" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#or-operator)<br>
+**11-3:** ["Not" Operator](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#not-operator)<br>
 
 ## And Operator
 
