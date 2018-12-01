@@ -3,7 +3,7 @@
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
 **1-1:** [Installing Scala](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#installing-scala)<br>
 **1-2:** [VS Code for Scala](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#vs-code-forscala)<br>
-**1-3:** [Launching Spark Shell](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.mda#launching-spark-shell)<br>
+**1-3:** [Launching Spark Shell](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#launching-the-spark-shell)<br>
 **1-4:** ["Hello World" in Command Prompt](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#hello-world-in-commandprompt)<br>
 **1-5:** ["Hello World" in VS Code](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md#hello-world-in-vscode)
 
