@@ -1,11 +1,10 @@
 # Part 2: Data Types
 
-## Table of Contents
-**Top:** [Project ToC](https://github.com/hjhuney/Intro-to-Scala#table-of-contents)<br>
-**2-1:** [Integers](https://github.com/hjhuney/Intro-to-Scala#integers)<br>
-**2-2:** [Doubles](https://github.com/hjhuney/Intro-to-Scala#doubles)<br>
-**2-3:** [Strings](https://github.com/hjhuney/Intro-to-Scala#strings)<br>
-**2-4:** [Booleans](https://github.com/hjhuney/Intro-to-Scala#booleans)<br>
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**2-1:** [Integers](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md#integers)<br>
+**2-2:** [Doubles](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md#doubles)<br>
+**2-3:** [Strings](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md#strings)<br>
+**2-4:** [Booleans](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md#booleans)<br>
 **2-5:** [Others](https://www.tutorialspoint.com/scala/scala_data_types.htm)
 
 ## Integers
