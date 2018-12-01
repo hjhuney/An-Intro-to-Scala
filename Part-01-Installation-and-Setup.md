@@ -44,7 +44,7 @@ You might also consider some other Scala plug-ins. I haven't messed around much 
 
 In any case, now you should be configured for running Scala files.
 
-## Launching Spark Shell
+## Launching the Spark Shell
 
 Once you have everything installed, you should be able to run Scala through your command prompt. If you follow the instructions successfully and you're running Windows, you can open the command prompt (shortcut: enter "cmd" in the search box at the "Start" menu) and type in:
 
