@@ -1,8 +1,8 @@
 # Part 4: "Variables vs Values"
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**4-1:** [Variables](https://github.com/hjhuney/Intro-to-Scala#variables)<br>
-**4-2:** [Values](https://github.com/hjhuney/Intro-to-Scala#values)<br>
+**4-1:** [Variables](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-04-Variables-vs-Values.md#variables)<br>
+**4-2:** [Values](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-04-Variables-vs-Values.md#values)<br>
 
 ## Variables
 
