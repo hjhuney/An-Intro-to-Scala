@@ -1,8 +1,7 @@
 # Part 6: Tuples
 
 **Top:** [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**6-1:** [Creating a Tuple](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-06-Tuples.md#creating-a-tuple)<br>
-**6-2:** [Indexing Tuples](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-06-Tuples.md#indexing-tuples)<br>
+
 
 ## Creating a Tuple
 
