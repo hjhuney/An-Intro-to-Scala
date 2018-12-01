@@ -2,6 +2,7 @@
 # Part 7: Lists
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+
 **7-1:** [Creating a List](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#creating-a-list)<br>
 **7-2:** [Indexing](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#indexing)<br>
 **7-3:** [List Attributes](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#list-attributes)<br>
@@ -12,6 +13,7 @@
 **7-8:** [Sort](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#fsort)<br>
 **7-9:** [Size](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#size)<br>
 **7-10:** [Min & Max](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#min--max)<br>
+
 **7-11:** [Sum & Product](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#sum-and-product)<br>
 **7-12:** [Drop](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#drop)<br>
 **7-13:** [TakeRight](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md#takeright)<br>
