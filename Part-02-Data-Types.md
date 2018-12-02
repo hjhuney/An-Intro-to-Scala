@@ -90,26 +90,22 @@ val x1 = null
 Also, “Any” is a supertype. A list that contains multiple data types will be “Any”. Now, let’s move onto arithmetic operators.
 
 
-# Project Table of Contents
+**Next:**  [Arithmetic Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-03-Arithmetic-Operators.md)<br>
 
-**Part 0:**  [An Intro to the Intro](https://github.com/hjhuney/Intro-to-Scala#part-0-intro-to-the-intro)<br>
-**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/Intro-to-Scala#part-1-installation-set-up-and-hello-world)<br>
-**Part 2:**  [Data Types](https://github.com/hjhuney/Intro-to-Scala#part-2-data-types)<br>
-**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/Intro-to-Scala#part-3-arithmetic-operators)<br>
-**Part 4:**  [Variables vs Values](https://github.com/hjhuney/Intro-to-Scala#part-4-variables-vs-values)<br>
-**Part 5:** [String Operations](https://github.com/hjhuney/Intro-to-Scala#part-5-string-operations)<br>
-**Part 6:**  [Tuples](https://github.com/hjhuney/Intro-to-Scala#part-6-tuples)<br>
-**Part 7:**  [Lists](https://github.com/hjhuney/Intro-to-Scala#part-7-lists)<br>
+## Project Table of Contents
 
-*Work In Progress*
-
-**Part 8:**  [Arrays](https://github.com/hjhuney/Intro-to-Scala#part-8-arrays)<br>
-**Part 9:**  [Sets](https://github.com/hjhuney/Intro-to-Scala#part-9-sets)<br>
-**Part 10:**  [Maps](https://github.com/hjhuney/Intro-to-Scala#part-10-maps)<br>
-**Part 11:**  [Logical Operators](https://github.com/hjhuney/Intro-to-Scala#part-11-logical-operators)<br>
-**Part 12:**  [If Statements]()<br>
-**Part 13:** [For Loops]()<br>
-**Part 14:** [While Loops]()<br>
-**Part 15:** [Functions]()<br>
-
-**Appendix:** [List of Resources](https://github.com/hjhuney/Intro-to-Scala#resources)<br>
+**Part 1:**  [Installation, Set-Up, and "Hello World"](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-01-Installation-and-Setup.md)<br>
+**Part 2:**  [Data Types](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-02-Data-Types.md)<br>
+**Part 3:**  [Arithmetic Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-03-Arithmetic-Operators.md)<br>
+**Part 4:**  [Variables vs Values](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-04-Variables-vs-Values.md)<br>
+**Part 5:** [String Operations](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-05-String-Operations.md)<br>
+**Part 6:**  [Tuples](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-06-Tuples.md)<br>
+**Part 7:**  [Lists](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-07-Lists.md)<br>
+**Part 8:**  [Arrays](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-08-Arrays.md)<br>
+**Part 9:**  [Sets](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-09-Sets.md)<br>
+**Part 10:**  [Maps](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-10-Maps.md)<br>
+**Part 11:**  [Logical Operators](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md)<br>
+**Part 12:**  [If Statements](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-12-If-Statements.md)<br>
+**Part 13:** [For Loops](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-13-For-Loops.md)<br>
+**Part 14:** [While Loops](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-14-While-Loops.md)<br>
+**Part 15:** [Functions](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md)<br>
