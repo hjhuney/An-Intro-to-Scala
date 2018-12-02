@@ -1,6 +1,10 @@
 # Part 14: While Loops
 
 
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**14-1:** [Creating a While Loop](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-14-While-Loops.md#creating-a-while-loop)<br>
+**14-2:** [While Loop with Break](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-14-While-Loops.md#while-loop-with-break)<br>
+
 ## Creating a While Loop
 
 While loops have a similar format to for loops in Scala. We'll create a while loop, with a variable "x" defined as "0". If "x" is less than 5, then we will print "x" and add 1 to it. 
@@ -29,7 +33,7 @@ x is currently 4; adding 1 to x
 ```
 
 
-## Break
+## While Loop with Break
 
 In order to "break" in Scala, we need to import the "break" keyword. 
 
