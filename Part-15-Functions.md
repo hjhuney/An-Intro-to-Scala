@@ -1,5 +1,11 @@
 # Part 15: Functions
 
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**15-1:** [Simple Print Function](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md#simple-print-function)<br>
+**15-2:** [Return Function](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md#return-function)<br>
+**15-3:** [Prime Number Function](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md#prime-number-function)<br>
+**15-4:** [Collections in Functions](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md#collections-in-functions)<br>
+
 ## Simple Print Function
 
 In this function, we'll print "BADGER!". We use "def" to create the function and we need to provide the data type for the output. In this case, we'll use "[Unit](https://www.scala-lang.org/api/2.12.x/scala/Unit.html)", which is a general data type. See the example below.
