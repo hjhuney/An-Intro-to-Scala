@@ -1,9 +1,9 @@
 # Part 12: If Statements
 
 [Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
-**12-1:** [Simple If Statement](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#and-operator)<br>
-**12-2:** [If - Else If](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#or-operator)<br>
-**12-3:** [If - Else If - Else](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#not-operator)<br>
+**12-1:** [Simple If Statement](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-12-If-Statements.md#simple-if-statement)<br>
+**12-2:** [If - Else If](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-12-If-Statements.md#if---else-if)<br>
+**12-3:** [If - Else If - Else](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-12-If-Statements.md#if---else-if---else)<br>
 
 # Simple If Statement
 
