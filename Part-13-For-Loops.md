@@ -1,5 +1,10 @@
 # Part 13: For Loops
 
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**13-1:** [Creating For Loops](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-13-For-Loops.md#creating-for-loops)<br>
+**13-2:** [Looping Through a Range](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-13-For-Loops.md#looping-through-a-range)<br>
+**13-3:** [If - Else If - Else](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-13-For-Loops.md#if-statement-embedded-within-for-loop)<br>
+
 ## Creating For Loops
 
 Let's create a new file in our text editor (mine is named "scala_for_loops.scala"). We'll create a new list called "badgers". 
