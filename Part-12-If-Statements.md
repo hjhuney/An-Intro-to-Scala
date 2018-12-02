@@ -1,6 +1,13 @@
 # Part 12: If Statements
 
-With the logical operators out of the way, let's work on if statements. In Scala, we follow the if -> else if -> else line of logic. Open up your text editor and create a new .scala file. I named mine "scala_if_statements.scala", but you're free to use any name you like. 
+[Table of Contents](https://github.com/hjhuney/An-Intro-to-Scala#table-of-contents)<br>
+**12-1:** [Simple If Statement](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#and-operator)<br>
+**12-2:** [If - Else If](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#or-operator)<br>
+**12-3:** [If - Else If - Else](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-11-Logical-Operators.md#not-operator)<br>
+
+# Simple If Statement
+
+With the logical operators out of the way, let's work on if statements. In Scala, we follow the "if" -> "else if" -> "else" line of logic, but we'll start with a simple if statement. Open up your text editor and create a new .scala file. I named mine "scala_if_statements.scala", but you're free to use any name you like. 
 
 First, let's create a list of animals. 
 
@@ -8,7 +15,7 @@ First, let's create a list of animals.
 var animals = List("aardvark", "hedgehog", "walrus")
 ```
 
-Now, we'll try out first "if statement" which tests whether the list contains both "aardvark" and "walrus" in it. 
+Now, we'll try our first "if statement" which tests whether the list contains both "aardvark" and "walrus" in it. 
 
 *input*
 
@@ -32,6 +39,8 @@ Alternatively, if you gave your file a different name than mine, remember to cha
 
 ```
 
+# If - Else If
+
 Next, let's take a look at an if statement with an "else if" clause. We'll keep our original "if statement", but now we'll add an "else if" clause that tests whether the 'animals' list contains either "aardvark" or "rhino". If it does, we'll print out "#2: Aardvark or Rhino?"
 
 *input*
@@ -50,7 +59,7 @@ if((animals.contains("aardvark") && animals.contains("rhino"))){
 ```
 #2: Aardvark or Rhino?
 ```
-
+## If - Else If - Else
 
 Finally, let's run the whole shebang by adding an "else" clause. We'll keep our "if" and "else if" statements, but we'll add an "else" statement to the end. This condition does not test anything; it merely runs if the "if" and "else if" statement are both false. The "else" clause will return "#3: Welcome to Marmot Land!"
 
