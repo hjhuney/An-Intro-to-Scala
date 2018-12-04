@@ -2,10 +2,6 @@
 
 ![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
 
-# Note
-
-This is a work in progress. 
-
 # Table of Contents
 
 **Part 0:** [Intro to the Intro](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/README.md#part-0-intro-to-the-intro)<br>
