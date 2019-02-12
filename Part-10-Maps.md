@@ -115,6 +115,8 @@ animals_map.keys
 *output*
 
 ```
+res0: Iterable[Int] = MapLike(1, 2, 3, 4)
+```
 
 ## Project Table of Contents
 
@@ -133,4 +135,3 @@ animals_map.keys
 **Part 13:** [For Loops](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-13-For-Loops.md)<br>
 **Part 14:** [While Loops](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-14-While-Loops.md)<br>
 **Part 15:** [Functions](https://github.com/hjhuney/An-Intro-to-Scala/blob/master/Part-15-Functions.md)<br>
-res0: Iterable[Int] = MapLike(1, 2, 3, 4)
