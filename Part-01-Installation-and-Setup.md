@@ -11,7 +11,7 @@
 
 The first task is to download Scala. You'll need to go through several steps. If you're using Windows 10, I recommend the following tutorial on YouTube
 
-[How to Install and Setup SBT + Scala on Windows 10](https://www.youtube.com/watch?v=MepMJDeveZU)
+[How to Install and Setup SBT + Scala on Windows 10](https://www.youtube.com/watch?v=haMI6uoMKs0)
 
 You can decide on your own whether you want to install SBT, as well, as there are other options for running Scala (such as [IntelliJ](https://www.jetbrains.com/idea/)).
 
