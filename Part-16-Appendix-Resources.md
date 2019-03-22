@@ -6,3 +6,6 @@ Tutorials Point: Learn Scala Programming, [Link](https://www.tutorialspoint.com/
 Marius Eriksen. Effective Scala, [Link](http://twitter.github.io/effectivescala/)<br>
 Rob Story, Python to Scala, [Link](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)<br>
 Alvin Alexander, Scala Cookbook, [Link](https://www.oreilly.com/library/view/scala-cookbook/9781449340292/)<br>
+
+
+Martin Odersky, Programming in Scala, 3rd Edition, [Link](https://www.artima.com/shop/programming_in_scala_3ed)
