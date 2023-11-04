@@ -1,4 +1,4 @@
-# An Intro to Scala
+# An Intro to Scala 
 
 ![Intro to Scala](https://github.com/hjhuney/Intro-to-Scala/blob/master/Images/intro_logo_004.jpg "An intro to Scala")
 
